@@ -54,22 +54,6 @@ print("\n")
 print("JULY Environment Check")
 print("✅ - Pass, ⛔ - Fail, ⏺️ - No test, ⚠️ - Missing aliases\n")
 
-coroutine.resume(coroutine.create(function()
-	repeat task.wait() until running == 0
-
-	local rate = math.round(passes / (passes + fails) * 100)
-	local outOf = passes .. " out of " .. (passes + fails)
-
-	print("\n")
-
-	print("JULY Summary")
-	print("✅ Tested with a " .. rate .. "% success rate (" .. outOf .. ")")
-	print("⛔ " .. fails .. " tests failed")
-	print("⚠️ " .. undefined .. " globals are missing aliases")
-end))
-
-
-
 -- Cache
 
 test("cache.invalidate", {}, function()
@@ -867,3 +851,12 @@ test("WebSocket.connect", {}, function()
 	end
 	ws:Close()
 end)
+
+local rate = math.floor(passes / (passes + fails) * 100 + 0.5)
+local outOf = passes .. " out of " .. (passes + fails)
+print("\n")
+
+print("JULY Summary")
+print("✅ Tested with a " .. rate .. "% success rate (" .. outOf .. ")")
+print("⛔ " .. fails .. " tests failed")
+print("⚠️ " .. undefined .. " globals are missing aliases")
