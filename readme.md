@@ -1,7 +1,7 @@
-# Joint Universal Labelling for You
-aka JULY, is an organization provided for the soul purpose of a better unified scripting Environment for our users.
+# Joint Universal Labeling for You
+aka JULY, is an organization provided for the soul purpose of a better unified scripting environment for our users.
 
-## JULY Has Officially been created 👋
+## JULY has offically been created! 🎉
 
 Since UNC has retired, I've decided to step up as a member of the Exploiting Community and revive it to create a better environment for everyone in the community. I’ll be offering tutorials as time permits.
 
