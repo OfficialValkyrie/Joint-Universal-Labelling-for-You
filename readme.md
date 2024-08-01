@@ -3,46 +3,38 @@ aka JULY, is an organization provided for the soul purpose of a better unified s
 
 ## JULY Has Officially been created 👋
 
-Since UNC has retired, I as a fellow member of the Exploiting Community have decided to revive it for a better Environment for everyone, I will be giving out Tutorials if I have time.
-I do not think this will be a hit like UNC, it may be difficult for me to conzentrate on multiple Projects at once, because of that, this will be a Small Project for now.
+Since UNC has retired, I've decided to step up as a member of the Exploiting Community and revive it to create a better environment for everyone in the community. I’ll be offering tutorials as time permits.
 
-JULY will get Updates each Month I hope if I have time.
-There will be documented Files containing on how to code Functions and Theory's on how to code some of them. (Since I do not own every Function in this Language.)
+While I don’t expect this to be as impactful as UNC, and balancing multiple projects might be challenging, I plan to keep this as a small-scale project for now.
+JULY will receive monthly updates, as long as my schedule allows.
+This project will include documentation on how to code functions and theoretical approaches, because I don’t own every function in this language.
 
-You can take a look inside the files of JULY, you may make your own Versions of this Project, I highly advice you to make your own Version of this Project with your own Theory's and work.
+Feel free to explore JULY's files and create your own versions of JULY itself. I highly encourage you to develop your own theories and contributions.
 
 ---
 ## What Purpose does it behold?
-I have seen people struggle and take others work as their own just to be in a higher stand then them.
+I have seen people struggle and take others work as their own just to be in a higher stand then them. 
+This is why, JULY has been created. Its purpose is to give people what they always wanted and needed the most. A better Eenvironment. 
+Not everyone has the budget to access or get what they want. That's why, we, as a part of the exploiting community are free and nice. Our aim is to empower scripters by removing barriers to coding and simplifying the process of achieving compatibility across different platforms, not to take away that ability. With JULY's Joint Universal Labelling, we provide a solution that ensures scripts work seamlessly anywhere, making it easier to use, and easier to read.
 
-This is why, JULY has been created.
-Its Purpose is to give people what they always wanted and needed the most.
-A better Environment.
+With JULY, scripts are designed to always work across all variants, as it provides a various set of functions that fill the environment. 
 
-Not everyone has the Budget to get what they desire.
-This is why we are a free and a nice community.
-We do not want to take Scripters ability away to code.
-We do not want them to take the long way to achieve the same energy.
-We want to everyone to achieve cross compatibility.
-The JULY will solve this issue using Joint Universal Labelling for you.
-
-A script will always work in any variant of it with JULY Filling the Environment with Various of Functions. 
 
 ## How come JULY is your choice? 
-The JULY provides a way to Pack Various Environment Functions into the Software you currenlty have access to.
-Everyone will have access to Exploiting in a way no one has ever seen.
+JULY offers a way to pack a range of environmental functions into the software you're currently using/have access to. 
+This will enable everyone to exploit in ways never EVER seen before.
 
 
 ## Supporting JULY in your Software
-As a Software Owner, your Work will have a smoother and faster experience for scripters, so they are able to work on scripts that they provide for the Community, their Products will work on a way no one has ever felt after Synapse's Discontinuation.
-If you have Implemented JULY's Work into your Software, you can display so by adding our logo into your website, thread or application.
+As a software owner, integrating JULY into your system will have a smoother and accelerated experience for scripters, allowing them to to create scripts and work on scripts they provide for the community, it will be in such a way that their own products will work in a way that hasn't been possible since Synapse's discontinuation.
+
+If you have or have already implemented JULY’s features into your software, you can show this by adding our logo to your website, thread, or application.
 
 You can find our logo here: https://imgur.com/a/BWeQa5X
 
-This will inform members of the Community of your Unification in providing scripters an smoother and easier method of engineering scripts that your users can enjoy.
+This will inform the community of your unification in providing scripters an smoother and easier method of engineering scripts that your users can enjoy.
 
-Notification: if you are a Product Owner, and do not have all of the functions but you have a part of it, you may support JULY.
-Your mind is more powerfull than the logo that you can display on your website.
+Notification: If you are a product owner and only have a part of the functionality and fucntions of JULY, you can still support JULY. Your contribution and mind are more valuable than just displaying our logo on your website.
 
 ## Having a look into your Environment
 
